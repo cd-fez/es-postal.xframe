@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "lodash": "3.x",
-    "es-postal.federation": "2.0.5-custom-aia-patch3"
+    "es-postal.federation": ">=0.5.2"
   },
   "devDependencies": {
   	"babel": "5.x",
