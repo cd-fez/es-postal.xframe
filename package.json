@@ -2,10 +2,10 @@
   "name": "es-postal.xframe",
   "description": "postal.js/postal.federation plugin for federating instances of postal.js across iframe/window boundaries.",
   "version": "0.5.0",
-  "homepage": "http://github.com/cd-fez/postal.xframe",
+  "homepage": "http://github.com/cd-fez/es-postal.xframe",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cd-fez/postal.xframe.git"
+    "url": "git+https://github.com/cd-fez/es-postal.xframe.git"
   },
   "author": "Jim Cowart (http://ifandelse.com)",
   "contributors": [
