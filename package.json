@@ -5,7 +5,7 @@
   "homepage": "http://github.com/cd-fez/es-postal.xframe",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cd-fez/es-postal.xframe.git",
+    "url": "git+https://github.com/cd-fez/es-postal.xframe.git"
   },
   "author": "Jim Cowart (http://ifandelse.com)",
   "contributors": [
@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "lodash": "3.x",
-    "postal.federation": ">=0.5.2"
+    "es-postal.federation": "2.0.5-custom-aia-patch3"
   },
   "devDependencies": {
   	"babel": "5.x",
