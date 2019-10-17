@@ -1,7 +1,7 @@
 {
   "name": "es-postal.xframe",
   "description": "postal.js/postal.federation plugin for federating instances of postal.js across iframe/window boundaries.",
-  "version": "0.5.0-custom-aia-patch1",
+  "version": "0.5.0-custom-aia-patch2",
   "homepage": "http://github.com/cd-fez/es-postal.xframe",
   "repository": {
     "type": "git",
